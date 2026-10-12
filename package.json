@@ -1,0 +1,17 @@
+{
+  "name": "prime-checker-module",
+  "version": "1.0.0",
+  "description": "A simple module to check prime numbers",
+  "keywords": [
+    "prime",
+    "math",
+    "checker"
+  ],
+  "license": "MIT",
+  "author": "Eduardo Tapia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
